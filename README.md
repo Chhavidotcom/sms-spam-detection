@@ -1,4 +1,4 @@
-# sms-spam-detection-model
+# sms-spam-detection
 
 dataset from kaggle
 
